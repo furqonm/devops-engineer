@@ -13,27 +13,12 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
     > Video material dari AwesomeGCP. Silahkan dipelajari untuk memperdalam pengenalan beberapa service di Google Cloud berikut fitur-fiturnya yang mungkin diujikan. Disini dibahas juga contoh soal ujian GCP PCDE.
 
 ### 2. Exam Guide
-- [Professional Cloud Architect: Certification Exam Guide](https://cloud.google.com/certification/guides/professional-cloud-architect)
+- [Professional Cloud DevOps Engineer: Certification Exam Guide](https://cloud.google.com/learn/certification/guides/cloud-devops-engineer)
 
-    > Membahas 6 domain/section yang akan ditanyakan diujian. Bisa dicek beberapa poin mana yang tidak dimengerti untuk dipelajari lebih lanjut. Selain itu ada beberapa soal yang terkait case study. Kita bisa persiapkan dari awal untuk menggali informasi dari case study tersebut.
+    > Membahas 5 domain/section yang akan ditanyakan diujian. Bisa dicek beberapa poin mana yang tidak dimengerti untuk dipelajari lebih lanjut.
 
 ### 3. Exam Readiness
-- [Professional Cloud Architect Sample Questions](https://docs.google.com/forms/d/e/1FAIpQLSdvf8Xq6m0kvyIoysdr8WZYCG32WHENStftiHTSdtW4ad2-0w/viewform)
+- [Professional Cloud DevOps Engineer Sample Questions](https://docs.google.com/forms/d/e/1FAIpQLSdpk564uiDvdnqqyPoVjgpBp0TEtgScSFuDV7YQvRSumwUyoQ/viewform)
+- [Exam Readiness: Professional DevOps Engineer](https://docs.google.com/forms/d/e/1FAIpQLSflTWSOaDFOrErrEJ2dnovSHYlq9AmzU3Crzh4Rl9entn48uw/viewform)
 
-    > Simulasi ujian via Google Forms untuk mengenali format pertanyaan ujian GCP PCA nanti.
-
-## Hands-on Labs
-- [Google Cloud Skills Boost](https://www.cloudskillsboost.google/catalog?price%5B%5D=free)
-
-    > Kumpulan lab Google Cloud yang disediakan gratis. Untuk mencoba bisa mendaftar menggunakan akun Google kita.
-
-- [Play with Docker](https://labs.play-with-docker.com/)
-- [Kubernetes: Hello Minikube](https://kubernetes.io/docs/tutorials/hello-minikube/)
-
-    > Hands-on Labs gratis untuk belajar Docker dan Kubernetes. Lab berjalan di browser tanpa memerlukan instalasi.
-
-## Additional Material (Optional)
-### 1. Infrastructure as Code (IAC)
-- [HashiCorp Terraform Associate Certification Course - Pass the Exam!](https://www.youtube.com/watch?v=V4waklkBC38&ab_channel=freeCodeCamp.org) **(Unofficial)**
-
-    > Video material dari Andrew Brown (ExamPro) di freecodecamp. Silahkan dipelajari untuk mempelajari Terraform dan mempersiapkan ujian HashiCorp Certified: Terraform Associate.
+    > Simulasi ujian via Google Forms untuk mengenali format pertanyaan ujian GCP PCDE nanti.
