@@ -10,7 +10,7 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
 - [Google Cloud Professional Cloud DevOps Engineer, Quick - AwesomeGCP](https://www.youtube.com/playlist?list=PLQMsfKRZZviTkHaBZQNYKvX2JnKG91_AF) **(Unofficial)**
 
-    > Video material dari AwesomeGCP. Silahkan dipelajari untuk memperdalam materi tentang DevOps dan SRE berikut pengenalan beberapa service di Google Cloud yang mungkin diujikan. Disini dibahas juga contoh soal ujian GCP PCDE.
+    > Video material dari AwesomeGCP. Silahkan dipelajari untuk memperdalam materi tentang DevOps dan SRE berikut pengenalan beberapa service di Google Cloud yang mungkin diujikan. Disini dibahas juga contoh soal ujian Google Cloud PCDE.
 
 ### 2. Exam Guide
 - [Professional Cloud DevOps Engineer: Certification Exam Guide](https://cloud.google.com/learn/certification/guides/cloud-devops-engineer)
@@ -21,4 +21,4 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 - [Professional Cloud DevOps Engineer Sample Questions](https://docs.google.com/forms/d/e/1FAIpQLSdpk564uiDvdnqqyPoVjgpBp0TEtgScSFuDV7YQvRSumwUyoQ/viewform)
 - [Exam Readiness: Professional Cloud DevOps Engineer](https://forms.gle/yp5JaHMn9jYYxKUz6) **(Unofficial)**
 
-    > Simulasi ujian via Google Forms untuk mengenali format pertanyaan ujian GCP PCDE nanti.
+    > Simulasi ujian via Google Forms untuk mengenali format pertanyaan ujian Google Cloud PCDE nanti.
