@@ -4,7 +4,7 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 ---
 ## Exam Preparation Materials
 ### 1. Google Cloud Course
-- [Logging, Monitoring and Observability in Google Cloud)
+- [Logging, Monitoring and Observability in Google Cloud](https://www.cloudskillsboost.google/course_templates/99)
 
     > Official e-learning gratis dari Google Cloud, namun untuk lab diharuskan membayar 45 credit/dollar. Sangat penting bagi yang belum pernah ikut kelas DevOps di Google Cloud (Logging, Monitoring and Observability in Google Cloud) untuk mempelajari materi ini. Bagi yang pernah ikut kelas Devops di Google Cloud sebelumnya bisa menjadikan materi ini sebagai rekaman untuk me-refresh apa yang pernah dipelajari sebelumnya.
 
