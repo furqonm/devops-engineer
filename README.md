@@ -8,7 +8,7 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
     > Official e-learning gratis dari Google Cloud, namun untuk lab diharuskan membayar 45 credit/dollar. Sangat penting bagi yang belum pernah ikut kelas DevOps di Google Cloud (Logging, Monitoring and Observability in Google Cloud) untuk mempelajari materi ini. Bagi yang pernah ikut kelas Devops di Google Cloud sebelumnya bisa menjadikan materi ini sebagai rekaman untuk me-refresh apa yang pernah dipelajari sebelumnya.
 
-- [Google Cloud Professional Cloud Developer, Quick - AwesomeGCP](https://www.youtube.com/playlist?list=PLQMsfKRZZviR6NAoNOx_FFKbC1m_qZAuT) **(Unofficial)**
+- [Google Cloud Professional Cloud DevOps Engineer, Quick - AwesomeGCP](https://www.youtube.com/playlist?list=PLQMsfKRZZviTkHaBZQNYKvX2JnKG91_AF) **(Unofficial)**
 
     > Video material dari AwesomeGCP. Silahkan dipelajari untuk memperdalam materi tentang DevOps dan SRE berikut pengenalan beberapa service di Google Cloud yang mungkin diujikan. Disini dibahas juga contoh soal ujian GCP PCDE.
 
