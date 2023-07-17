@@ -19,6 +19,6 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
 ### 3. Exam Readiness
 - [Professional Cloud DevOps Engineer Sample Questions](https://docs.google.com/forms/d/e/1FAIpQLSdpk564uiDvdnqqyPoVjgpBp0TEtgScSFuDV7YQvRSumwUyoQ/viewform)
-- [Exam Readiness: Professional DevOps Engineer](https://docs.google.com/forms/d/e/1FAIpQLSflTWSOaDFOrErrEJ2dnovSHYlq9AmzU3Crzh4Rl9entn48uw/viewform) **(Unofficial)**
+- [Exam Readiness: Professional DevOps Engineer](https://forms.gle/yp5JaHMn9jYYxKUz6) **(Unofficial)**
 
     > Simulasi ujian via Google Forms untuk mengenali format pertanyaan ujian GCP PCDE nanti.
