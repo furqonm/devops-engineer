@@ -16,4 +16,5 @@ _[DISCLAIMER] The links and materials provided here are intended as supplementar
 ### 3. Exam Readiness
 - [Professional Cloud DevOps Engineer Sample Questions](https://docs.google.com/forms/d/e/1FAIpQLSdpk564uiDvdnqqyPoVjgpBp0TEtgScSFuDV7YQvRSumwUyoQ/viewform)
 - [Exam Readiness: Professional Cloud DevOps Engineer](https://forms.gle/yp5JaHMn9jYYxKUz6)
+- [Examtopics.com: Google Professional Cloud DevOps Engineer Actual Exam Questions](https://www.examtopics.com/exams/google/professional-cloud-devops-engineer/view/)
   > Multiple sample questions to help you get familiar with the question format for the exam.
