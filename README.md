@@ -6,7 +6,7 @@ _[DISCLAIMER] The links and materials provided here are intended as supplementar
 ## Exam Preparation Materials
 ### 1. Google Cloud Courses
 - [Logging, Monitoring and Observability in Google Cloud](https://www.cloudskillsboost.google/course_templates/99)
-- [Google Cloud Professional Cloud DevOps Engineer, Quick - AwesomeGCP](https://www.youtube.com/playlist?list=PLQMsfKRZZviTkHaBZQNYKvX2JnKG91_AF) **(Unofficial)**
+- [Google Cloud Professional Cloud DevOps Engineer, Quick - AwesomeGCP](https://www.youtube.com/playlist?list=PLQMsfKRZZviTkHaBZQNYKvX2JnKG91_AF)
   > It provides a complete overview of the exam topics, often with practical demonstrations of the services.
 
 ### 2. Exam Guide
